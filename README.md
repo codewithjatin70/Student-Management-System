@@ -106,5 +106,4 @@ what you would like to change.
 
 💡 **Author:** ᴊᴀᴛɪɴꜱʜᴀʀᴍᴀ  
 📧 Contact: [your.email@example.com](mailto:ethicalgameing@gmail.com)
-
 ```
